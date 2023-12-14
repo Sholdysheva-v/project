@@ -1,0 +1,12 @@
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.csproj.AssemblyReference.cache
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.csproj.SuggestedBindingRedirects.cache
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.Form1.resources
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.Properties.Resources.resources
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.Form2.resources
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.csproj.GenerateResource.cache
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.csproj.CoreCompileInputs.cache
+C:\Users\Днс\source\repos\pr_five\bin\Debug\pr_five.exe.config
+C:\Users\Днс\source\repos\pr_five\bin\Debug\pr_five.exe
+C:\Users\Днс\source\repos\pr_five\bin\Debug\pr_five.pdb
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.exe
+C:\Users\Днс\source\repos\pr_five\obj\Debug\pr_five.pdb
